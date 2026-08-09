@@ -1,0 +1,33 @@
+﻿@model IEnumerable<BluePeakBank.Web.Models.Account>
+
+<h1>Accounts</h1>
+
+@if (!Model.Any())
+{
+    <p>No accounts have been created yet.</p>
+}
+else
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Account ID</th>
+                <th>Account Name</th>
+                <th>Account Type</th>
+                <th>Account Date</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var account in Model)
+            {
+                <tr>
+                    <td>@account.AccountID</td>
+                    <td>@account.AccountName</td>
+                    <td>@account.AccountType</td>
+                    <td>@account.AccountDate</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

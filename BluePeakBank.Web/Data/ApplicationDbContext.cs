@@ -12,5 +12,6 @@ namespace BluePeakBank.Data
 
         public DbSet<Account> Accounts { get; set; }
         public DbSet<Customer> Customers { get; set; }
+        public DbSet<Loan> Loan { get; set; }
     }
 }

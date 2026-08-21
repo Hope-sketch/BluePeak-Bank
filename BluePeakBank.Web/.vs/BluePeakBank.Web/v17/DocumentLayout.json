@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|c:\\users\\makan\\onedrive\\desktop\\bluepeak bank\\bluepeakbank.web\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|solutionrelative:controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|c:\\users\\makan\\onedrive\\desktop\\bluepeak bank\\bluepeakbank.web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|c:\\users\\makan\\onedrive\\desktop\\bluepeak bank\\bluepeakbank.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|c:\\users\\makan\\onedrive\\desktop\\bluepeak bank\\bluepeakbank.web\\views\\loan\\loan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|solutionrelative:views\\loan\\loan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|c:\\users\\makan\\onedrive\\desktop\\bluepeak bank\\bluepeakbank.web\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|solutionrelative:models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|c:\\users\\makan\\onedrive\\desktop\\bluepeak bank\\bluepeakbank.web\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|c:\\users\\makan\\onedrive\\desktop\\bluepeak bank\\bluepeakbank.web\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|c:\\users\\makan\\onedrive\\desktop\\bluepeak bank\\bluepeakbank.web\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|c:\\users\\makan\\onedrive\\desktop\\bluepeak bank\\bluepeakbank.web\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|c:\\users\\makan\\onedrive\\desktop\\bluepeak bank\\bluepeakbank.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85178420-6E5F-4214-B79F-1132EDE601B0}|BluePeakBank.Web.csproj|c:\\users\\makan\\onedrive\\desktop\\bluepeak bank\\bluepeakbank.web\\models\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,8 +58,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "Controllers\\LoanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:38:21.383Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -63,30 +88,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Loan.cshtml",
+              "DocumentMoniker": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Views\\Loan\\Loan.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loan\\Loan.cshtml",
+              "ToolTip": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Views\\Loan\\Loan.cshtml",
+              "RelativeToolTip": "Views\\Loan\\Loan.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T06:47:22.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Models\\Loan.cs",
+              "RelativeToolTip": "Models\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T06:43:12.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Views\\Customer\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
               "ToolTip": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Views\\Customer\\Index.cshtml",
               "RelativeToolTip": "Views\\Customer\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T18:13:11.999Z"
+              "WhenOpened": "2026-08-20T18:13:11.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T18:05:40.764Z"
+              "WhenOpened": "2026-08-20T18:05:40.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "AccountStatus.cs",
               "DocumentMoniker": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Models\\AccountStatus.cs",
               "RelativeDocumentMoniker": "Models\\AccountStatus.cs",
@@ -98,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "DocumentType.cs",
               "DocumentMoniker": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Models\\DocumentType.cs",
               "RelativeDocumentMoniker": "Models\\DocumentType.cs",
@@ -110,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
@@ -122,20 +175,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Controllers\\CustomerController.cs*",
-              "RelativeToolTip": "Controllers\\CustomerController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-20T17:34:40.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Views\\Account\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
@@ -147,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "BluePeakBank.Web.csproj",
               "DocumentMoniker": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\BluePeakBank.Web.csproj",
               "RelativeDocumentMoniker": "BluePeakBank.Web.csproj",
@@ -159,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Makan\\OneDrive\\Desktop\\BluePeak Bank\\BluePeakBank.Web\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
